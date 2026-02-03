@@ -1,7 +1,7 @@
 <!DOCTYPE html>  <html lang="vi">  
 <head>  
     <meta charset="UTF-8">  
-    <title>Profile Cá Nhân</title>  
+    <title>PROFILE </title>  
     <link rel="stylesheet" href="style.css">  
 </head>  
 <body>  <div class="container">  <h1>Lê Minh Nhựt</h1>  
